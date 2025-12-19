@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fraaa4/simple-web-server/issues"
   },
-  "homepage": "https://github.com/fraaa4/simple-web-server#readme"
+  "homepage": "https://github.com/fraaa4/simple-web-server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
